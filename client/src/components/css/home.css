@@ -1,0 +1,31 @@
+.home{
+  background: url('./Image/bus2.jpg') no-repeat;
+  display: block;
+  background-size: cover;
+  background-position: center;
+  height: 630px;
+  width: 99%;
+  align-items: center;
+ 
+}
+#wlc{
+  margin-top: -420px;
+}
+.container{
+  padding: 55px;
+
+}
+input{
+  width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.allcity{
+   
+  width: 100%;
+}
+#te{
+  color:rgb(255, 255, 255);
+}

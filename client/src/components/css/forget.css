@@ -1,0 +1,13 @@
+.forget-page{
+    max-width: 50%;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    height:380px;
+    border: 1px solid brown;
+    border-radius: 15px;
+    box-shadow: 0px 0px 50px black;
+  }
+  .fbtn{
+    margin-left: 250px;
+  }

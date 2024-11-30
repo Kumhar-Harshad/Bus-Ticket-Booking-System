@@ -1,0 +1,103 @@
+
+.cad{
+    display: flex;
+    
+    
+}
+.gg{
+    font-family:Arial, Helvetica, sans-serif;
+    color: orangered;
+}
+
+
+.card1{
+    box-shadow: 0px 0px 25px  #5142ca;
+    border-radius: 25px 50px;
+    background:linear-gradient(to right, #1b0778, #2e1c92, #402eae, #5142ca, #6155e7);
+    height: 200px;
+    width: 300px;
+    margin-left: 10px;
+    
+
+}
+.card1:hover{
+
+   
+    background:linear-gradient(to left, #1b0778, #2e1c92, #402eae, #5142ca, #6155e7);
+   
+}
+
+.card2{
+    border-radius: 25px 50px;
+    box-shadow: 0px 0px 25px #b4196c;
+    background:linear-gradient(
+        to right, #7e1253, #90145c, #a21764, #b4196c, #c71b74);
+        width: 300px;
+        height: 200px;
+        margin-left: 10px;
+        
+}
+.card2:hover{
+
+    
+    background:linear-gradient(to left,  #7e1253, #90145c, #a21764, #b4196c, #c71b74);
+}
+.card3{
+    border-radius: 25px 50px;
+    box-shadow: 0px 0px 25px #ea7200;
+    background:linear-gradient(to right, #b35d00, #c56400, #d76b00, #ea7200, #fd7900);
+    width: 300px;
+    height: 200px;
+    margin-left: 10px;
+}
+.card3:hover{
+    
+    background:linear-gradient(to left, #b35d00, #c56400, #d76b00, #ea7200, #fd7900);
+}
+
+.card4{
+    border-radius: 25px 50px;
+    box-shadow: 0px 0px 25px #238811;
+    background:linear-gradient(to right, #0f4c02, #165f05, #1d730a, #238811, #2a9d17);
+    width: 300px;
+    height: 200px;
+    margin-left: 10px;
+}
+.card4:hover{
+  
+    background:linear-gradient(to left, #0f4c02, #165f05, #1d730a, #238811, #2a9d17);
+}
+.app1{
+    font-size: 60px;   
+    margin-left: 120px;
+
+    color: #2a9d17;
+}
+.app2{
+    font-size: 60px;   
+    margin-left: 100px;
+    color: #2a9d17;
+}
+.app3{
+    font-size: 50px;   
+    margin-left: 120px;
+    color: #f11717;
+}
+.app4{
+    font-size: 50px;   
+    margin-left: 120px;
+    color: #4400ff;
+}
+
+.ahh{
+        color:lightcyan;
+        font-family:'Times New Roman', Times, serif;
+        text-align: center ;
+}
+.ah{
+    color:lightcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center ;
+
+}
+

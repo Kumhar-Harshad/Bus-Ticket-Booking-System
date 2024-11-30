@@ -1,0 +1,80 @@
+.about-us {
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 1px solid brown;
+    border-radius: 15px;
+    box-shadow: 0px 0px 50px black;
+    word-wrap: break-word;
+  }
+  
+  .about-us-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-header h1 {
+    font-size: 2.5em;
+  }
+  
+  .company-info, .team, .contact-info {
+    margin-bottom: 30px;
+    word-wrap: break-word;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    font-size: 2em;
+  }
+  
+  .team-members {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    text-align: center;
+    width: 200px;
+  }
+  .team-member:hover{
+    box-shadow: 0px 0px 20px rgb(232, 86, 19);
+  }
+  
+  .team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  
+  .contact-info ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-info li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  .social{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 3px;
+  }
+  .social:hover{
+    box-shadow: 0px 0px 10px black;
+  }

@@ -1,0 +1,43 @@
+.user-profile{
+    max-width:50%;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 1px solid brown;
+    border-radius: 15px;
+    box-shadow: 0px 0px 50px black;
+    word-wrap: break-word;
+}
+
+.pf{
+    height: 250px;
+    width: 250px;
+    margin-left: 33%;
+}
+#pname:hover{
+    color: rgb(97, 22, 227);
+    transition: ease-out 0.5s ;
+}
+.ph{
+    border: 1px solid rgb(235, 154, 42);
+    
+}
+#pname{
+    color: brown;
+}
+.blink {
+    color: brown;
+    animation: blink 1s steps(1, end) infinite;
+  }
+  
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }

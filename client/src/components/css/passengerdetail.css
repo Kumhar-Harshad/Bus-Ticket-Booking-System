@@ -1,0 +1,16 @@
+.passenger-detail{
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 1px solid brown;
+    border-radius: 15px;
+    box-shadow: 0px 0px 50px black;
+    word-wrap: break-word;
+}
+.b{
+    margin-left: 680px;
+}
+.n{
+    margin-left: 60px;
+}

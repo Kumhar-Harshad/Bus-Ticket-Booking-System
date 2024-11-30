@@ -1,0 +1,30 @@
+.containero{
+    background-size: cover;
+    background-position: center;
+    background: url('./unnamed.png')  no-repeat;
+    /* filter: drop-shadow(0px 0px 20px rgb(251, 137, 38)); */
+    height: 520px;
+    width: 100%;
+    display: block;
+    align-items: center;
+    margin-left: 30px;
+    display: flex;
+}
+.itemserch{
+    backdrop-filter: blur(2.5px);
+    align-items: center;
+    text-align: center;
+    /* background: #fff; */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgb(104, 104, 104);
+    max-width: 400px;
+    width: 100%;
+    border: 1px solid black;
+    margin-left: 480px;
+    
+}
+.serch{
+   
+    width: 100%;
+}

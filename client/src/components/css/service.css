@@ -1,0 +1,49 @@
+.Service-page{
+    background-color: rgb(217, 121, 11);
+    
+  
+    
+   
+    display: flex;
+   height: fit-content ;
+}
+
+
+.ser{
+    color: rgb(28, 104, 233);
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif
+    
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.sp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sp:hover{
+    color:azure
+}
+.sli:hover{
+    color:azure;
+    transition:0.5s  ease-out;
+}
+/* VideoPlayer.css */
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000; /* Optional: background color */
+    padding: 20px; /* Optional: padding around the video */
+  }
+  
+  .video-player {
+    max-width: 100%;
+    height: 500px;
+  }
+
+.ms{
+    height: 200px;
+    width: 250px;
+}
