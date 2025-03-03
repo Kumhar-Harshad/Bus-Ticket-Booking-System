@@ -14,9 +14,8 @@ body {
     padding: 8px;
     border-radius: 10px;
  
-    display: flex;
-    
-    position: sticky;
+    display: relative;
+    position: ;
     top: 0;
 }
 
@@ -26,10 +25,12 @@ body {
     text-decoration:none;
    margin-left:-35px;
    margin-top: -6px;
+   display:absolute;
     
 }
 .lin{
    margin-top: 20px;
+  
    
 }
 

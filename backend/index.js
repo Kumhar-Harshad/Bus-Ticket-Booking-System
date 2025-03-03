@@ -4,17 +4,20 @@ const cors = require('cors');
 const RegisterModel = require('./models/Register')
 const passengerModel =require('./models/Pessanger')
 const paymentModel =require('./models/Payment');
-const seatModel = require('./models/Seat');z
+const seatModel = require('./models/Seat');
 const jwt = require("jsonwebtoken");
 const busModel = require('./models/Bus');
+
 
 
 const app = express();
 app.use(express.json());
 app.use(cors());
+//Mongodb Data Online cloud
+// mongoose.connect("mongodb+srv://Harshad:harshad2003@harshad.nycke.mongodb.net/?retryWrites=true&w=majority&appName=Harshad")
 
-
-mongoose.connect("mongodb://127.0.0.1:27017/client")
+//Mongodb Data ofline cloud
+mongoose.connect("mongodb://localhost:27017/client")
 
 
 app.post('/signup',(req,res) => {
@@ -95,7 +98,7 @@ app.post("/forget", async (req, res) => {
 
 
 
-
+//add passenger data
 app.post('/passenger', async (req, res) => {
     try {
         console.log(req.body.records);

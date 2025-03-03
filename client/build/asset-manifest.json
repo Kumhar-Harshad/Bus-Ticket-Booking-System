@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86278952.css",
+    "main.js": "/static/js/main.06834276.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Ad-Bus.mp4": "/static/media/Ad-Bus.6f9e1b36b6e981259b70.mp4",
+    "static/media/Gsrtc.mp4": "/static/media/Gsrtc.7ffc5e6dcb7221fd9abc.mp4",
+    "static/media/service2.jpg": "/static/media/service2.80090b822bfe85aa6a16.jpg",
+    "static/media/service1.jpg": "/static/media/service1.c1890011fb30ed06cfc6.jpg",
+    "static/media/service.jpg": "/static/media/service.f08541aad2e1d7a704db.jpg",
+    "static/media/unnamed.png": "/static/media/unnamed.0369bbfd9ac63f94e913.png",
+    "static/media/bus2.jpg": "/static/media/bus2.d91cdff75bedcf48e3f5.jpg",
+    "static/media/profile.png": "/static/media/profile.0c8639fb0bac1d9b98bf.png",
+    "static/media/insta.png": "/static/media/insta.e719d8b29f452a16302d.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/grsrtc.png": "/static/media/grsrtc.f4bc47a540847ea6f9d6.png",
+    "index.html": "/index.html",
+    "main.86278952.css.map": "/static/css/main.86278952.css.map",
+    "main.06834276.js.map": "/static/js/main.06834276.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86278952.css",
+    "static/js/main.06834276.js"
+  ]
+}

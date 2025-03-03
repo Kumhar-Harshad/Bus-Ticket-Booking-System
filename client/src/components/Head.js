@@ -44,7 +44,7 @@ function Header() {
   breakpoints={['xxxl', 'xxl', 'xl', 'lg', 'md', 'sm', 'xs', 'xxs']}
   minBreakpoint="xxs"
 >
-            <div className="head row col-md-12 col-lg-12 col-sm-12">
+            <div className="head row col-md-12 col-lg-12 col-sm-12 ">
                 <div className="logo col-3"><img src={bus} alt='hello' /></div>
                 {/* <div className="logo col-3"><h3><i class='bx bxs-bus ' ></i> Bus Ticket Booking</h3></div> */}
 
